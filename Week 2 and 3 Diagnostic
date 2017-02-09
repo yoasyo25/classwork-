@@ -1,4 +1,4 @@
-Week 2 and 3 Diagnostic
+# Week 2 and 3 Diagnostic #
 
 This exercise is intended to help you assess your progress with the concepts and techniques we’ve covered during the week.
 
@@ -8,7 +8,22 @@ Use single (`) and triple backticks (```) to container code snippets.
 
 Define a class called PizzaOven which has a method cook_pizza which returns the string "mmm 'za".
 
+''' 
+class PizzaOven
+  def cook_pizza
+    puts "mmm 'za"
+  end
+
+end 
+'''
+
 Define a class called Student which is instantiated with a “name” value and which has a method name that returns this value
+
+'''
+
+
+
+'''
 
 Given an array of the numbers [1,2,3,4,5], find the sum of the doubles of all the numbers
 
